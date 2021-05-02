@@ -1,3 +1,5 @@
 read item1, item2, item 3, item 4
 total=item1+item2+intem3=item4
 print total
+if customer is a regular customer
+give 10 points for each purchase
