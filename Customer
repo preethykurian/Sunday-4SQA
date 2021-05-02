@@ -1,3 +1,6 @@
 read item1, item2, item 3, item 4
 total=item1+item2+intem3=item4
 print total
+if total>100 then
+give discount 50% 
+else no discount
